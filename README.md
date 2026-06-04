@@ -1,5 +1,5 @@
 # E-commerce-Funnel-analysis
-Power BI dashboard analyzing user funnel performance, conversion rates, revenue trends, and customer behavior insights.
+Power BI dashboard analyzing e-commerce user funnel performance, conversion rates, revenue trends, and customer behavior insights.
 # User Funnel Performance Dashboard
 
 ## Project Overview
